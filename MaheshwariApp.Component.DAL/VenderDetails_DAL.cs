@@ -20,11 +20,9 @@ namespace MaheshwariApp.Component.DAL
             SqlCommand cmd = new SqlCommand("ASP_VenderDetails", con);
             cmd.CommandType = CommandType.StoredProcedure;
 
-            cmd.Parameters.AddWithValue("@VendorID", VendorID.ToString());
-            cmd.Parameters.AddWithValue("@VendorName", VendorName.ToString());
-            cmd.Parameters.AddWithValue("@VendorAddress", VendorAddress.ToString());
-            cmd.Parameters.AddWithValue("@VendorAddDate", VendorAddDate.ToShortDateString());
-            cmd.Parameters.AddWithValue("@VendorCity", VendorCity.ToString());
+          l;as;fd 
+;asjdfls dfg asd a;sj ;asldjf ; lkasdf '
+; jasljd 
             cmd.Parameters.AddWithValue("@VendorEmail", VendorEmail.ToString());
             cmd.Parameters.AddWithValue("@VendorMobile", Convert.ToInt64(VendorMobile));
 
