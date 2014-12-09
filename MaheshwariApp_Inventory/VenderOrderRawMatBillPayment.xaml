@@ -1,0 +1,91 @@
+﻿<!--<Window x:Class="MaheshwariApp_Inventory.VenderOrderRawMatBillPayment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VenderOrderRawMatBillPayment" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>-->
+<UserControl x:Class="MaheshwariApp_Inventory.VenderOrderRawMatBillPayment"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             x:Name="VenderOrderRawMatBillPaymencct"
+             d:DesignHeight="700" d:DesignWidth="900">
+    <Grid Background="LightGoldenrodYellow" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="274*" />
+            <ColumnDefinition Width="626*" />
+        </Grid.ColumnDefinitions>
+        <Label Height="50" Margin="144,0,128,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Stretch" FontSize="26" FontWeight="SemiBold" Content="VENDER ORDER(RAW MATERIAL) BILL PAYMENT" FontFamily="Lucida Fax" Grid.ColumnSpan="2"></Label>
+
+        <WrapPanel Margin="50,65,50,24" Width="800" Grid.ColumnSpan="2">
+            <Label Content="Invoice number" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtInvoiceNo" />
+            <Label Content="Date" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5" />
+            <DatePicker Height="30" Name="dpToday" Width="253" />
+            <Label Content="Bill Number" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtBillNo" />
+            <Label Content="Bill Date" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5" />
+            <DatePicker Height="30" Name="dpBillDate" Width="253" />
+            <Label Content="Order ID" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5"/>
+            <ComboBox Height="30" Name="cmbOrderID" Width="247" IsEditable="True" Margin="5" />
+            <Label Content="Order Date" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="4" FontSize="12" FontFamily="Lucida Fax" Name="txtOrderDate" />
+            <Label Content="Vender ID" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtVenderID" />
+            <Label Content="Vender Name" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtVenderName" />
+            <Label Content="Mobile Number" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtVenderMobileNo" />
+            <Label Content="" FontFamily="Lucida Fax" FontSize="14" Height="30" Width="130" Visibility="Hidden" Margin="2"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Visibility="Hidden" Margin="2" FontSize="12" FontFamily="Lucida Fax" />
+            <Label Content="Type Of Material" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12" Margin="5" />
+            <Label Content="Quantity" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <Label Content="Price" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <Label Content="Total Price" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <Button Content="[+]" Height="23" Name="btnAddToGrid" Width="40" Margin="5" Click="btnAddToGrid_Click" />
+            <ComboBox Height="30" Name="comboBox11" Width="120" IsEditable="True" Margin="5" Visibility="Hidden"/>
+            <ComboBox Height="30" Name="cmbTypeOfMaterial" Width="120" IsEditable="True" Margin="5" />
+            <TextBox Height="30" Name="txtQuantity" TextWrapping="Wrap" Width="124"  Margin="5" FontSize="12" FontFamily="Lucida Fax" />
+            <TextBox Height="30" Name="txtPrice" TextWrapping="Wrap" Width="124"  Margin="5" FontSize="12" FontFamily="Lucida Fax" />
+            <TextBox Height="30" Name="txtTotalPrice" TextWrapping="Wrap" Width="124"  Margin="5" FontSize="12" FontFamily="Lucida Fax" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Visibility="Hidden" Margin="2" FontSize="12" FontFamily="Lucida Fax" />
+
+            <DataGrid AutoGenerateColumns="False" Height="112" Name="gdAddRawMaterial" Width="522" Margin="5" Loaded="gdAddRawMaterial_Loaded" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="SrNO" Binding="{Binding SrNo}"/>
+                    <DataGridTextColumn Header="Type Of Material" Binding="{Binding TypeOfMaterial}"/>
+                    <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}"/>
+                    <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <TextBox Visibility="Hidden" Height="30" TextWrapping="Wrap" Width="256" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="cmbTypeOfMaterial1" />
+            <TextBox Visibility="Hidden" Height="30" TextWrapping="Wrap" Width="256" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="cmbTypeOfMaterial11" />
+            <Label Content="Total Amount" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="127" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtTotalAmount" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Visibility="Hidden" Margin="2" FontSize="12" FontFamily="Lucida Fax" />
+            <TextBox  Visibility="Hidden" Height="30" TextWrapping="Wrap" Width="256" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="cmbTypeOfMaterial12" />
+            <Label Content="Paid Amount" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="127" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtPaidAmount" />
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Visibility="Hidden" Margin="2" FontSize="12" FontFamily="Lucida Fax" />
+            <TextBox  Visibility="Hidden" Height="30" TextWrapping="Wrap" Width="256" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="cmbTypeOfMaterial123" />
+            <Label Content="Unpaid Amount" Height="30" Width="130" FontFamily="Lucida Fax" FontSize="12"  Margin="5"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="127" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="txtUnpaidAmount" />
+            <TextBox Visibility="Hidden" Height="30" TextWrapping="Wrap" Width="256" Margin="2" FontSize="12" FontFamily="Lucida Fax" Name="cmbTypeOfMaterial112" />
+
+            <Button Content="ADD" Height="23" Name="btnAdd" Width="75" Margin="20" Click="btnAdd_Click" />
+
+            <Button Content="UPDATE" Height="23" Name="btnUpdate" Width="75" Margin="20" />
+            <Button Content="DELETE" Height="23" Name="btnDelete" Width="75" Margin="20"/>
+            <Button Content="CLEAR" Height="23" Name="btnClear" Width="75" Margin="20"/>
+
+            <!--<Label Content="" FontFamily="Lucida Fax" FontSize="14" Height="30" Width="130" Visibility="Hidden" Margin="2"/>
+            <TextBox Height="30" TextWrapping="Wrap" Width="250" Visibility="Hidden" Margin="2" FontSize="12" FontFamily="Lucida Fax" />-->
+        </WrapPanel>
+    </Grid>
+</UserControl>
+

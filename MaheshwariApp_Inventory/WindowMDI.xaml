@@ -1,0 +1,70 @@
+﻿<Window x:Class="MaheshwariApp_Inventory.WindowMDI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:mdi="clr-namespace:WPF.MDI;assembly=WPF.MDI"
+
+        Title="WindowMDI" Height="300" Width="300" WindowState="Maximized">
+    <Grid>
+
+        <DockPanel>
+
+
+            <!--</DockPanel>
+        <DockPanel>-->
+            <Menu Name="MainMenu" VerticalAlignment="Top" DockPanel.Dock="Top" Height="30" FontSize="15" >
+                <!--<MenuItem Name="menuHome" Header="Admin" Click="menuHome_Click">-->
+                    <MenuItem Name="menuHome" Header="Admin">
+                    <MenuItem Name="material" Header="Matrial" >
+                        <MenuItem Name="addMaterialType" Header="Material Type" Click="addMaterialType_Click"/>
+                        <MenuItem Name="addSubMaterialType" Header="Sub Material Type" Click="addSubMaterialType_Click"/>
+
+                        <MenuItem Name="addSubMaterialPrice" Header="Sub Material Price" Click="addSubMaterialPrice_Click"/>
+                    </MenuItem>                   
+                    <MenuItem Name="addCustomerEntry" Header="Customer Entry" Click="addCustomerEntry_Click"/>
+                    <MenuItem Name="addTaxes" Header="Add Tax" Click="addTaxes_Click"/>
+                    <MenuItem Name="addVender" Header="Add Vender" Click="addVender_Click"/> 
+                </MenuItem>
+                <!--<MenuItem Name="menuMaster" Header="Master" Click="menuMaster_Click">-->
+                <MenuItem Name="menuMaster" Header="Master">
+                    <MenuItem Name="userRegistration" Header="User Registration" Click="userRegistration_Click"  />
+                    <MenuItem Name="compRegistration" Header="Company Registration" Click="compRegistration_Click"></MenuItem>
+                </MenuItem>
+                <MenuItem Name="menuVendor" Header="Vender" >
+                    <MenuItem Name="AddVendor" Header="Add Vender" Click="AddVendor_Click"  />
+                </MenuItem>
+                <MenuItem Name="menuExit" Header="Exit" Click="menuExit_Click">
+                    <!--<MenuItem Name="Exit" Header="Exit" Click="menuExit_Click"></MenuItem>-->
+                </MenuItem>
+            </Menu>
+
+
+            <!--</DockPanel>
+        
+        
+        <DockPanel>-->
+
+            <Border Background="Orange" DockPanel.Dock="Left">
+                <!--<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                  Text="" Height="139" Width="79" >
+                    
+                </TextBlock>-->
+                <!--<Button Content="jgjdgj" Height="20" Width="40" />
+                <Button Content="jgjdgj" Height="20" Width="40" />
+                <Button Content="jgjdgj" Height="20" Width="40" />-->
+                <StackPanel Name="test" Background="#FF00AEDB">
+                    <Button Content="Home" Height="20" Width="40" Margin="20" />
+                    <!--<Button Content="jgjdgj" Height="20" Width="40" Margin="10" />
+                    <Button Content="jgj" Height="20" Width="40" Margin="10" />
+                    <Button Content="jgjj" Height="20" Width="40" Margin="10" />
+                    <Button Content="jgjdg" Height="20" Width="40" Margin="10" />-->
+                </StackPanel>
+
+
+            </Border>
+
+            <mdi:MdiContainer DockPanel.Dock="Right" Theme="Aero"  Margin="0 0 0 0" Name="MainMdiContainer"  />
+
+        </DockPanel>
+
+    </Grid>
+</Window>

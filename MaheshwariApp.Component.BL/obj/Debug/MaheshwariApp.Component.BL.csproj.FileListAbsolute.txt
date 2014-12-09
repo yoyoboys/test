@@ -1,0 +1,21 @@
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.dll
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.pdb
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.dll
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.pdb
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.dll
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.dll
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.dll
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.dll
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.dll
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.BL.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.dll
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\bin\Debug\MaheshwariApp.Component.DAL.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.csprojResolveAssemblyReference.cache
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.dll
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp.Component.BL\obj\Debug\MaheshwariApp.Component.BL.pdb

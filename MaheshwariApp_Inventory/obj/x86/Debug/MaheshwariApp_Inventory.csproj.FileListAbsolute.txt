@@ -1,0 +1,158 @@
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.pdb
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\WPF.MDI.dll
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\App.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory_MarkupCompile.cache
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.g.resources
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.Properties.Resources.resources
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.exe
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.pdb
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.baml
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.g.cs
+C:\test\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.exe
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.pdb
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\App.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory_MarkupCompile.cache
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.g.resources
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.Properties.Resources.resources
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.pdb
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.dll
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.pdb
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.baml
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.g.cs
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe.config
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.dll
+C:\Users\dell\Desktop\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VednderOrderRawMaterial.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VenderOrderRawMatBillPayment.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.baml
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VednderOrderRawMaterial.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VenderOrderRawMatBillPayment.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\App.g.cs
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory_MarkupCompile.cache
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.g.resources
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.Properties.Resources.resources
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe.config
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.dll
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.dll
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.pdb
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.exe
+C:\Private Project\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe.config
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.exe
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.csprojResolveAssemblyReference.cache
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VednderOrderRawMaterial.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VenderOrderRawMatBillPayment.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.baml
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_AddVender.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_CustomerEntry.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialPrice.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_SubMaterialType.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TaxEntry.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\AD_TypeOfMaterial.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\CompRegistration.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\Login.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerInventry.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_CustomerPaidReceipt.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\SM_SerchUpaidPayment.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\UserRegistration.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VednderOrderRawMaterial.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\VenderOrderRawMatBillPayment.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\WindowMDI.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\App.g.cs
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory_MarkupCompile.cache
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.g.resources
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.Properties.Resources.resources
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\obj\x86\Debug\MaheshwariApp_Inventory.csproj.GenerateResource.Cache
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.exe
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp_Inventory.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.dll
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.dll
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.BL.pdb
+F:\Maheshwari\Maheshwari\MaheshwariApp_Inventory\MaheshwariApp_Inventory\bin\Debug\MaheshwariApp.Component.DAL.pdb
